@@ -10,4 +10,4 @@
 </ul>
 <br />
 <br />
-<img src="https://github.com/TheMagizz/DarkPremium/blob/master/Al8dar.termux.jpg" />
+<img src="https://github.com/AhmedAl8dar/ATX/blob/master/Al8dar.termux.png" />
