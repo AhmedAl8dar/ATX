@@ -8,3 +8,6 @@
 <li><code>pip2 install -r requirements.txt</code></li>
 <li><code>python2 Al8dar.py</code></li>
 </ul>
+<br />
+<br />
+<img src="https://github.com/TheMagizz/DarkPremium/blob/master/Al8dar.termux.jpg" />
